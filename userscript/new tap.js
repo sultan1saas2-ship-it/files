@@ -80,15 +80,11 @@
 // @match        *://www.startpage.com/search*
 // @match        *://www.startpage.com/sp/search*
 // @match        *://search.brave.com/*
-// @match        *://duckduckgo.com
 // @match        *://duckduckgo.com/*
 // @match        *://ghosterysearch.com/*
- 
 // @match        *://presearch.com/*
- 
 // @match        *://metager.org/*meta/meta.ger3*
 // @match        *://metager.de/*meta/meta.ger3*
- 
 // @match        *://4get.ca/*
 // @match        *://4get.silly.computer/*
 // @match        *://4get.plunked.party/*
@@ -103,7 +99,6 @@
 // @match        *://4get.psily.garden/*
 // @match        *://4get.lvkaszus.pl/*
 // @match        *://4get.kizuki.lol/*
- 
 // @match        *://search.ahwx.org/search.php*
 // @match        *://search2.ahwx.org/search.php*
 // @match        *://search3.ahwx.org/search.php*
@@ -125,9 +120,7 @@
 // @match        *://librey.myroware.net/search.php*
 // @match        *://librey.nezumi.party/search.php*
 // @match        *://search.zeroish.xyz/search.php*
- 
 // @match        *://stract.com/*
- 
 // @match        *://search.albony.xyz/*
 // @match        *://search.garudalinux.org/*
 // @match        *://search.dr460nf1r3.org/*
@@ -151,13 +144,10 @@
 // @match        *://search.notrustverify.ch/*
 // @match        *://whoogle.datura.network/*
 // @match        *://whoogle.yepserver.xyz/*
- 
 // @match        *://www.etools.ch/searchSubmit.do*
 // @match        *://www.etools.ch/mobileSearch.do*
- 
 // @match        *://www.mojeek.com/*
 // @match        *://www.mojeek.co.uk/*
- 
 // @match        *://wiby.me/*
 // @match        *://yep.com/web*
 // @match        *://www.torry.io/search*
@@ -171,9 +161,7 @@
 // @match        *://www.onesearch.com/*search*
 // @match        *://www.info.com/*
 // @match        *://oceanhero.today/web*
- 
 // @match        *://swisscows.com/*/web*
- 
 // @match        *://search.lilo.org/*
 // @match        *://search.entireweb.com/*
 // @match        *://www.tadadoo.com/*
@@ -200,7 +188,6 @@
 // @match        *://gibiru.com/results.html*
 // @match        *://www.lukol.com/s.php*
 // @match        *://www.draze.com/web/*
- 
 // @match        *://www.yelliot.com/search/*
 // @match        *://fr.yelliot.com/search/*
 // @match        *://ar.yelliot.com/search/*
@@ -211,7 +198,6 @@
 // @match        *://cn.yelliot.com/search/*
 // @match        *://in.yelliot.com/search/*
 // @match        *://pt.yelliot.com/search/*
- 
 // @match        *://efind.com/search*
 // @match        *://fireball.de/de/*
 // @match        *://freespoke.com/search/web*
@@ -229,7 +215,6 @@
 // @match        *://www.ask.com/web*
 // @match        *://www.pronto.com/web*
 // @match        *://anoox.com/find.php*
- 
 // @match        *://kagi.com/search*
 // @grant        none
 // ==/UserScript==
